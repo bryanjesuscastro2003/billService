@@ -13,4 +13,9 @@ public class ProcessController {
              return "Hi theere";
     }
 
+    @GetMapping("/temp")
+    public String process2(){
+        return "Hi theere tmemp2";
+    }
+
 }
