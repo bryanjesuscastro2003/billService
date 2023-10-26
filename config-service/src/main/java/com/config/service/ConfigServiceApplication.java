@@ -1,4 +1,4 @@
-package config.service;
+package com.config.service;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.config.server.EnableConfigServer;
 import org.springframework.boot.SpringApplication;
